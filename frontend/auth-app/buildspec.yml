@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: frontend/auth-app/build
+  base-directory: frontend/auth-app/build #test
